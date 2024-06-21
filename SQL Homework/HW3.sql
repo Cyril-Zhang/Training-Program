@@ -254,3 +254,51 @@ JOIN
 --This function will return the IDs of rows with a rank greater than 1, indicating duplicates. 
 --Insert these duplicate IDs into a temporary table, then delete the rows from the original table where the ID is in the temporary table. 
 --Finally, drop the temporary table to clean up.
+--For example:
+
+--Create a sample 
+CREATE TABLE EmployeesTemp (
+    EmployeeID INT PRIMARY KEY,
+    FirstName VARCHAR(100),
+    LastName VARCHAR(100)
+);
+
+INSERT INTO EmployeesTemp(EmployeeID, FirstName, LastName)
+VALUES 
+(1, 'John', 'Doe'),
+(2, 'Jane', 'Doe'),
+(3, 'John', 'Doe'),
+(4, 'Jane', 'Smith'),
+(5, 'John', 'Doe');
+
+CREATE FUNCTION dbo.GetDuplicateEmployeeIDs()
+RETURNS @DuplicateIDs TABLE (EmployeeID INT)
+AS
+BEGIN
+    -- Insert the EmployeeIDs of duplicate rows into the table variable
+    INSERT INTO @DuplicateIDs (EmployeeID)
+    SELECT EmployeeID
+    FROM (
+        SELECT 
+            EmployeeID,
+            RANK() OVER (PARTITION BY FirstName, LastName ORDER BY EmployeeID)  [Employee Rank]
+        FROM 
+            EmployeesTemp
+    ) RankedEmployees
+    WHERE [Employee Rank] > 1;
+
+    RETURN;
+END;
+
+
+CREATE TABLE #TempDuplicateIDs (EmployeeID INT);
+
+INSERT INTO #TempDuplicateIDs (EmployeeID)
+SELECT EmployeeID FROM dbo.GetDuplicateEmployeeIDs();
+
+DELETE FROM EmployeesTemp
+WHERE EmployeeID IN (SELECT EmployeeID FROM #TempDuplicateIDs);
+
+DROP TABLE #TempDuplicateIDs;
+
+SELECT * FROM EmployeesTemp;

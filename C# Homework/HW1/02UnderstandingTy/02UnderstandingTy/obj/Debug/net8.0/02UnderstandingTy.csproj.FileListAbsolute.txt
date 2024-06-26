@@ -1,0 +1,15 @@
+D:\Antra Trainning\Training-Program\C# Homework\HW1\02UnderstandingTy\02UnderstandingTy\bin\Debug\net8.0\02UnderstandingTy.exe
+D:\Antra Trainning\Training-Program\C# Homework\HW1\02UnderstandingTy\02UnderstandingTy\bin\Debug\net8.0\02UnderstandingTy.deps.json
+D:\Antra Trainning\Training-Program\C# Homework\HW1\02UnderstandingTy\02UnderstandingTy\bin\Debug\net8.0\02UnderstandingTy.runtimeconfig.json
+D:\Antra Trainning\Training-Program\C# Homework\HW1\02UnderstandingTy\02UnderstandingTy\bin\Debug\net8.0\02UnderstandingTy.dll
+D:\Antra Trainning\Training-Program\C# Homework\HW1\02UnderstandingTy\02UnderstandingTy\bin\Debug\net8.0\02UnderstandingTy.pdb
+D:\Antra Trainning\Training-Program\C# Homework\HW1\02UnderstandingTy\02UnderstandingTy\obj\Debug\net8.0\02UnderstandingTy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra Trainning\Training-Program\C# Homework\HW1\02UnderstandingTy\02UnderstandingTy\obj\Debug\net8.0\02UnderstandingTy.AssemblyInfoInputs.cache
+D:\Antra Trainning\Training-Program\C# Homework\HW1\02UnderstandingTy\02UnderstandingTy\obj\Debug\net8.0\02UnderstandingTy.AssemblyInfo.cs
+D:\Antra Trainning\Training-Program\C# Homework\HW1\02UnderstandingTy\02UnderstandingTy\obj\Debug\net8.0\02UnderstandingTy.csproj.CoreCompileInputs.cache
+D:\Antra Trainning\Training-Program\C# Homework\HW1\02UnderstandingTy\02UnderstandingTy\obj\Debug\net8.0\02UnderstandingTy.sourcelink.json
+D:\Antra Trainning\Training-Program\C# Homework\HW1\02UnderstandingTy\02UnderstandingTy\obj\Debug\net8.0\02UnderstandingTy.dll
+D:\Antra Trainning\Training-Program\C# Homework\HW1\02UnderstandingTy\02UnderstandingTy\obj\Debug\net8.0\refint\02UnderstandingTy.dll
+D:\Antra Trainning\Training-Program\C# Homework\HW1\02UnderstandingTy\02UnderstandingTy\obj\Debug\net8.0\02UnderstandingTy.pdb
+D:\Antra Trainning\Training-Program\C# Homework\HW1\02UnderstandingTy\02UnderstandingTy\obj\Debug\net8.0\02UnderstandingTy.genruntimeconfig.cache
+D:\Antra Trainning\Training-Program\C# Homework\HW1\02UnderstandingTy\02UnderstandingTy\obj\Debug\net8.0\ref\02UnderstandingTy.dll

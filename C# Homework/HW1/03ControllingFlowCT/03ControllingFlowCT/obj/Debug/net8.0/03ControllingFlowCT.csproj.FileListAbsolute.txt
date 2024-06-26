@@ -1,0 +1,15 @@
+D:\Antra Trainning\Training-Program\C# Homework\HW1\03ControllingFlowCT\03ControllingFlowCT\bin\Debug\net8.0\03ControllingFlowCT.exe
+D:\Antra Trainning\Training-Program\C# Homework\HW1\03ControllingFlowCT\03ControllingFlowCT\bin\Debug\net8.0\03ControllingFlowCT.deps.json
+D:\Antra Trainning\Training-Program\C# Homework\HW1\03ControllingFlowCT\03ControllingFlowCT\bin\Debug\net8.0\03ControllingFlowCT.runtimeconfig.json
+D:\Antra Trainning\Training-Program\C# Homework\HW1\03ControllingFlowCT\03ControllingFlowCT\bin\Debug\net8.0\03ControllingFlowCT.dll
+D:\Antra Trainning\Training-Program\C# Homework\HW1\03ControllingFlowCT\03ControllingFlowCT\bin\Debug\net8.0\03ControllingFlowCT.pdb
+D:\Antra Trainning\Training-Program\C# Homework\HW1\03ControllingFlowCT\03ControllingFlowCT\obj\Debug\net8.0\03ControllingFlowCT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra Trainning\Training-Program\C# Homework\HW1\03ControllingFlowCT\03ControllingFlowCT\obj\Debug\net8.0\03ControllingFlowCT.AssemblyInfoInputs.cache
+D:\Antra Trainning\Training-Program\C# Homework\HW1\03ControllingFlowCT\03ControllingFlowCT\obj\Debug\net8.0\03ControllingFlowCT.AssemblyInfo.cs
+D:\Antra Trainning\Training-Program\C# Homework\HW1\03ControllingFlowCT\03ControllingFlowCT\obj\Debug\net8.0\03ControllingFlowCT.csproj.CoreCompileInputs.cache
+D:\Antra Trainning\Training-Program\C# Homework\HW1\03ControllingFlowCT\03ControllingFlowCT\obj\Debug\net8.0\03ControllingFlowCT.sourcelink.json
+D:\Antra Trainning\Training-Program\C# Homework\HW1\03ControllingFlowCT\03ControllingFlowCT\obj\Debug\net8.0\03ControllingFlowCT.dll
+D:\Antra Trainning\Training-Program\C# Homework\HW1\03ControllingFlowCT\03ControllingFlowCT\obj\Debug\net8.0\refint\03ControllingFlowCT.dll
+D:\Antra Trainning\Training-Program\C# Homework\HW1\03ControllingFlowCT\03ControllingFlowCT\obj\Debug\net8.0\03ControllingFlowCT.pdb
+D:\Antra Trainning\Training-Program\C# Homework\HW1\03ControllingFlowCT\03ControllingFlowCT\obj\Debug\net8.0\03ControllingFlowCT.genruntimeconfig.cache
+D:\Antra Trainning\Training-Program\C# Homework\HW1\03ControllingFlowCT\03ControllingFlowCT\obj\Debug\net8.0\ref\03ControllingFlowCT.dll

@@ -1,0 +1,15 @@
+D:\Antra Trainning\Training-Program\C# Homework\HW1\ArraysAndStrings\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra Trainning\Training-Program\C# Homework\HW1\ArraysAndStrings\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.AssemblyInfoInputs.cache
+D:\Antra Trainning\Training-Program\C# Homework\HW1\ArraysAndStrings\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.AssemblyInfo.cs
+D:\Antra Trainning\Training-Program\C# Homework\HW1\ArraysAndStrings\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.csproj.CoreCompileInputs.cache
+D:\Antra Trainning\Training-Program\C# Homework\HW1\ArraysAndStrings\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.sourcelink.json
+D:\Antra Trainning\Training-Program\C# Homework\HW1\ArraysAndStrings\ArraysAndStrings\bin\Debug\net8.0\ArraysAndStrings.exe
+D:\Antra Trainning\Training-Program\C# Homework\HW1\ArraysAndStrings\ArraysAndStrings\bin\Debug\net8.0\ArraysAndStrings.deps.json
+D:\Antra Trainning\Training-Program\C# Homework\HW1\ArraysAndStrings\ArraysAndStrings\bin\Debug\net8.0\ArraysAndStrings.runtimeconfig.json
+D:\Antra Trainning\Training-Program\C# Homework\HW1\ArraysAndStrings\ArraysAndStrings\bin\Debug\net8.0\ArraysAndStrings.dll
+D:\Antra Trainning\Training-Program\C# Homework\HW1\ArraysAndStrings\ArraysAndStrings\bin\Debug\net8.0\ArraysAndStrings.pdb
+D:\Antra Trainning\Training-Program\C# Homework\HW1\ArraysAndStrings\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.dll
+D:\Antra Trainning\Training-Program\C# Homework\HW1\ArraysAndStrings\ArraysAndStrings\obj\Debug\net8.0\refint\ArraysAndStrings.dll
+D:\Antra Trainning\Training-Program\C# Homework\HW1\ArraysAndStrings\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.pdb
+D:\Antra Trainning\Training-Program\C# Homework\HW1\ArraysAndStrings\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.genruntimeconfig.cache
+D:\Antra Trainning\Training-Program\C# Homework\HW1\ArraysAndStrings\ArraysAndStrings\obj\Debug\net8.0\ref\ArraysAndStrings.dll

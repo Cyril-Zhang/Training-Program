@@ -1,0 +1,15 @@
+2024-07-11 14:36:09.754 -05:00 [INF] Application Started
+2024-07-11 14:36:09.774 -05:00 [DBG] This is a debug message
+2024-07-11 14:37:47.723 -05:00 [INF] Application Started
+2024-07-11 14:37:47.743 -05:00 [DBG] This is a debug message
+2024-07-11 14:37:47.743 -05:00 [WRN] An unexpeted warning occured
+2024-07-11 14:37:47.743 -05:00 [ERR] An error occured while processing
+2024-07-11 14:37:47.743 -05:00 [FTL] A fatal error has occured
+2024-07-11 14:37:57.145 -05:00 [INF] Application Started
+2024-07-11 14:37:57.264 -05:00 [DBG] This is a debug message
+2024-07-11 14:37:57.264 -05:00 [WRN] An unexpeted warning occured
+2024-07-11 14:37:57.264 -05:00 [ERR] An error occured while processing
+2024-07-11 14:37:57.264 -05:00 [FTL] A fatal error has occured
+2024-07-11 14:40:00.182 -05:00 [INF] Application Started
+2024-07-11 14:40:00.202 -05:00 [DBG] This is a debug message
+2024-07-11 14:40:00.849 -05:00 [INF] GetAll employees method has been called

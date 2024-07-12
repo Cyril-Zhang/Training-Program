@@ -1,0 +1,14 @@
+/Users/anjila/Documents/JunIL2024/EntityFramework/EntityFramework.Core/bin/Debug/net8.0/EntityFramework.Core.deps.json
+/Users/anjila/Documents/JunIL2024/EntityFramework/EntityFramework.Core/bin/Debug/net8.0/EntityFramework.Core.runtimeconfig.json
+/Users/anjila/Documents/JunIL2024/EntityFramework/EntityFramework.Core/bin/Debug/net8.0/EntityFramework.Core.dll
+/Users/anjila/Documents/JunIL2024/EntityFramework/EntityFramework.Core/bin/Debug/net8.0/EntityFramework.Core.pdb
+/Users/anjila/Documents/JunIL2024/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.csproj.AssemblyReference.cache
+/Users/anjila/Documents/JunIL2024/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anjila/Documents/JunIL2024/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.AssemblyInfoInputs.cache
+/Users/anjila/Documents/JunIL2024/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.AssemblyInfo.cs
+/Users/anjila/Documents/JunIL2024/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.csproj.CoreCompileInputs.cache
+/Users/anjila/Documents/JunIL2024/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.dll
+/Users/anjila/Documents/JunIL2024/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/refint/EntityFramework.Core.dll
+/Users/anjila/Documents/JunIL2024/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.pdb
+/Users/anjila/Documents/JunIL2024/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.genruntimeconfig.cache
+/Users/anjila/Documents/JunIL2024/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/ref/EntityFramework.Core.dll

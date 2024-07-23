@@ -1,0 +1,15 @@
+D:\Antra Trainning\Training-Program\MVC Homework\ApplicationCore\bin\Debug\net8.0\ApplicationCore.deps.json
+D:\Antra Trainning\Training-Program\MVC Homework\ApplicationCore\bin\Debug\net8.0\ApplicationCore.runtimeconfig.json
+D:\Antra Trainning\Training-Program\MVC Homework\ApplicationCore\bin\Debug\net8.0\ApplicationCore.dll
+D:\Antra Trainning\Training-Program\MVC Homework\ApplicationCore\bin\Debug\net8.0\ApplicationCore.pdb
+D:\Antra Trainning\Training-Program\MVC Homework\ApplicationCore\obj\Debug\net8.0\ApplicationCore.csproj.AssemblyReference.cache
+D:\Antra Trainning\Training-Program\MVC Homework\ApplicationCore\obj\Debug\net8.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra Trainning\Training-Program\MVC Homework\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfoInputs.cache
+D:\Antra Trainning\Training-Program\MVC Homework\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfo.cs
+D:\Antra Trainning\Training-Program\MVC Homework\ApplicationCore\obj\Debug\net8.0\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Antra Trainning\Training-Program\MVC Homework\ApplicationCore\obj\Debug\net8.0\ApplicationCore.sourcelink.json
+D:\Antra Trainning\Training-Program\MVC Homework\ApplicationCore\obj\Debug\net8.0\ApplicationCore.dll
+D:\Antra Trainning\Training-Program\MVC Homework\ApplicationCore\obj\Debug\net8.0\refint\ApplicationCore.dll
+D:\Antra Trainning\Training-Program\MVC Homework\ApplicationCore\obj\Debug\net8.0\ApplicationCore.pdb
+D:\Antra Trainning\Training-Program\MVC Homework\ApplicationCore\obj\Debug\net8.0\ApplicationCore.genruntimeconfig.cache
+D:\Antra Trainning\Training-Program\MVC Homework\ApplicationCore\obj\Debug\net8.0\ref\ApplicationCore.dll

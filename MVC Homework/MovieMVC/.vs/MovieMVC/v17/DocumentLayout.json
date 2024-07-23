@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\MovieMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{840B7A35-5D03-4BC6-B1C9-BD8D27CCFA0C}|MovieMVC.csproj|d:\\antra trainning\\training-program\\mvc homework\\moviemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840B7A35-5D03-4BC6-B1C9-BD8D27CCFA0C}|MovieMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840B7A35-5D03-4BC6-B1C9-BD8D27CCFA0C}|MovieMVC.csproj|d:\\antra trainning\\training-program\\mvc homework\\moviemvc\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840B7A35-5D03-4BC6-B1C9-BD8D27CCFA0C}|MovieMVC.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840B7A35-5D03-4BC6-B1C9-BD8D27CCFA0C}|MovieMVC.csproj|d:\\antra trainning\\training-program\\mvc homework\\moviemvc\\views\\movies\\moviesbygenre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{840B7A35-5D03-4BC6-B1C9-BD8D27CCFA0C}|MovieMVC.csproj|solutionrelative:views\\movies\\moviesbygenre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972F2445-0FB3-4C43-AFF4-5B3257ABCF09}|..\\ApplicationCore\\ApplicationCore.csproj|d:\\antra trainning\\training-program\\mvc homework\\applicationcore\\contracts\\service\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972F2445-0FB3-4C43-AFF4-5B3257ABCF09}|..\\ApplicationCore\\ApplicationCore.csproj|d:\\antra trainning\\training-program\\mvc homework\\applicationcore\\contracts\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709A6A4C-24CA-4D74-9F2E-4CF37B6BF84B}|..\\Infrastructure\\Infrastructure.csproj|d:\\antra trainning\\training-program\\mvc homework\\infrastructure\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709A6A4C-24CA-4D74-9F2E-4CF37B6BF84B}|..\\Infrastructure\\Infrastructure.csproj|d:\\antra trainning\\training-program\\mvc homework\\infrastructure\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840B7A35-5D03-4BC6-B1C9-BD8D27CCFA0C}|MovieMVC.csproj|d:\\antra trainning\\training-program\\mvc homework\\moviemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{840B7A35-5D03-4BC6-B1C9-BD8D27CCFA0C}|MovieMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840B7A35-5D03-4BC6-B1C9-BD8D27CCFA0C}|MovieMVC.csproj|d:\\antra trainning\\training-program\\mvc homework\\moviemvc\\views\\shared\\components\\genres\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{840B7A35-5D03-4BC6-B1C9-BD8D27CCFA0C}|MovieMVC.csproj|solutionrelative:views\\shared\\components\\genres\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840B7A35-5D03-4BC6-B1C9-BD8D27CCFA0C}|MovieMVC.csproj|d:\\antra trainning\\training-program\\mvc homework\\moviemvc\\viewcomponents\\genresviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840B7A35-5D03-4BC6-B1C9-BD8D27CCFA0C}|MovieMVC.csproj|solutionrelative:viewcomponents\\genresviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840B7A35-5D03-4BC6-B1C9-BD8D27CCFA0C}|MovieMVC.csproj|d:\\antra trainning\\training-program\\mvc homework\\moviemvc\\moviemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{840B7A35-5D03-4BC6-B1C9-BD8D27CCFA0C}|MovieMVC.csproj|solutionrelative:moviemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709A6A4C-24CA-4D74-9F2E-4CF37B6BF84B}|..\\Infrastructure\\Infrastructure.csproj|d:\\antra trainning\\training-program\\mvc homework\\infrastructure\\repository\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972F2445-0FB3-4C43-AFF4-5B3257ABCF09}|..\\ApplicationCore\\ApplicationCore.csproj|d:\\antra trainning\\training-program\\mvc homework\\applicationcore\\contracts\\repository\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709A6A4C-24CA-4D74-9F2E-4CF37B6BF84B}|..\\Infrastructure\\Infrastructure.csproj|d:\\antra trainning\\training-program\\mvc homework\\infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\ApplicationCore\\Contracts\\Service\\IMovieService.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationCore\\Contracts\\Service\\IMovieService.cs",
+              "ToolTip": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\ApplicationCore\\Contracts\\Service\\IMovieService.cs",
+              "RelativeToolTip": "..\\ApplicationCore\\Contracts\\Service\\IMovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:00:33.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\Infrastructure\\Service\\MovieService.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Service\\MovieService.cs",
+              "ToolTip": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\Infrastructure\\Service\\MovieService.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Service\\MovieService.cs",
+              "ViewState": "AQIAANYAAAAAAAAAAAAuwPgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:57:08.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\MovieMVC\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\MovieMVC\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:13:13.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\Infrastructure\\Repository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repository\\MovieRepository.cs",
+              "ToolTip": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\Infrastructure\\Repository\\MovieRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repository\\MovieRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAIwEAAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:53:12.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\MovieMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\MovieMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAD4vy0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:35:55.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesByGenre.cshtml",
+              "DocumentMoniker": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\MovieMVC\\Views\\Movies\\MoviesByGenre.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\MoviesByGenre.cshtml",
+              "ToolTip": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\MovieMVC\\Views\\Movies\\MoviesByGenre.cshtml",
+              "RelativeToolTip": "Views\\Movies\\MoviesByGenre.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T15:58:40.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\ApplicationCore\\Contracts\\Repository\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationCore\\Contracts\\Repository\\IMovieRepository.cs",
+              "ToolTip": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\ApplicationCore\\Contracts\\Repository\\IMovieRepository.cs",
+              "RelativeToolTip": "..\\ApplicationCore\\Contracts\\Repository\\IMovieRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:52:32.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieMVC",
+              "DocumentMoniker": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\MovieMVC\\MovieMVC.csproj",
+              "RelativeDocumentMoniker": "MovieMVC.csproj",
+              "ToolTip": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\MovieMVC\\MovieMVC.csproj",
+              "RelativeToolTip": "MovieMVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-23T15:26:46.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenresViewComponent.cs",
+              "DocumentMoniker": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\MovieMVC\\ViewComponents\\GenresViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\GenresViewComponent.cs",
+              "ToolTip": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\MovieMVC\\ViewComponents\\GenresViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\GenresViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:28:53.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\MovieMVC\\Views\\Shared\\Components\\Genres\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Genres\\Default.cshtml",
+              "ToolTip": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\MovieMVC\\Views\\Shared\\Components\\Genres\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Genres\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T15:32:41.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\MovieMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\MovieMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T15:34:19.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\Infrastructure\\Repository\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repository\\GenreRepository.cs",
+              "ToolTip": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\Infrastructure\\Repository\\GenreRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repository\\GenreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:15:48.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGenreRepository.cs",
+              "DocumentMoniker": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\ApplicationCore\\Contracts\\Repository\\IGenreRepository.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationCore\\Contracts\\Repository\\IGenreRepository.cs",
+              "ToolTip": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\ApplicationCore\\Contracts\\Repository\\IGenreRepository.cs",
+              "RelativeToolTip": "..\\ApplicationCore\\Contracts\\Repository\\IGenreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:15:05.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\Infrastructure\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repository\\Repository.cs",
+              "ToolTip": "D:\\Antra Trainning\\Training-Program\\MVC Homework\\Infrastructure\\Repository\\Repository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repository\\Repository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:06:42.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

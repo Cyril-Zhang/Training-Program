@@ -1,0 +1,123 @@
+﻿@model ApplicationCore.Entity.Movies
+
+<div class="container mt-5">
+<!-- First Row: Movie Poster, Details, Buttons -->
+<div class="row">
+    <!-- First Column: Movie Poster -->
+    <div class="col-md-4">
+        <img src="@Model.PosterUrl" class="img-fluid" alt="@Model.Title Poster" />
+    </div>
+
+    <!-- Second Column: Movie Details -->
+    <div class="col-md-5">
+        <h2>@Model.Title</h2>
+        <div>
+            @foreach (var genre in Model.MovieGenres.Select(mg => mg.Genre))
+            {
+                <span class="badge badge-primary">@genre.Name</span>
+            }
+        </div>
+        <p>@Model.Overview</p>
+    </div>
+
+    <!-- Third Column: Buttons -->
+    <div class="col-md-3">
+        <button class="btn btn-success btn-block mb-2" data-bs-toggle="modal" data-bs-target="#buyMovieModal">Buy Movie</button>
+        <button class="btn btn-primary btn-block" data-bs-toggle="modal" data-bs-target="#reviewMovieModal">Review</button>
+    </div>
+</div>
+
+<!-- Second Row: Movie Facts, Trailers, Casts -->
+<div class="row mt-4">
+    <!-- First Column: Movie Facts and Trailers -->
+    <div class="col-md-6">
+        <div>
+            <h4>Movie Facts</h4>
+            <ul class="list-group">
+                <li class="list-group-item">Release Date: @Model.ReleaseDate?.ToString("yyyy-MM-dd")</li>
+                <li class="list-group-item">Revenue: @Model.Revenue</li>
+                <li class="list-group-item">Budget: @Model.Budget</li>
+            </ul>
+        </div>
+
+        <div class="mt-4">
+            <h4>Trailers</h4>
+            <ul class="list-group">
+                @foreach (var trailer in Model.Trailers)
+                {
+                    <li class="list-group-item">
+                        <a href="@trailer.TrailerUrl" target="_blank">@trailer.Name</a>
+                    </li>
+                }
+            </ul>
+        </div>
+    </div>
+
+    <!-- Second Column: Casts -->
+    <div class="col-md-6">
+        <h4>Casts</h4>
+        <ul class="list-group">
+            @foreach (var movieCast in Model.MovieCasts)
+            {
+                <li class="list-group-item">
+                    <a href="@Url.Action("Details", "Casts", new { id = movieCast.CastId })">@movieCast.Cast.Name as @movieCast.Character</a>
+                </li>
+            }
+        </ul>
+    </div>
+</div>
+</div>
+
+<!-- Buy Movie Modal -->
+<div class="modal fade" id="buyMovieModal" tabindex="-1" role="dialog" aria-labelledby="buyMovieModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="buyMovieModalLabel">Buy Movie</h5>
+                <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Are you sure you want to buy this movie for $@Model.Price?</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Purchase</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Review Movie Modal -->
+<div class="modal fade" id="reviewMovieModal" tabindex="-1" role="dialog" aria-labelledby="reviewMovieModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="reviewMovieModalLabel">Review Movie</h5>
+                <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label for="rating">Rating</label>
+                    <select class="form-control" id="rating">
+                        @for (int i = 1; i <= 10; i++)
+                        {
+                            <option value="@i">@i</option>
+                        }
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="reviewText">Review</label>
+                    <textarea class="form-control" id="reviewText" rows="3"></textarea>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Submit</button>
+            </div>
+        </div>
+    </div>
+</div>
